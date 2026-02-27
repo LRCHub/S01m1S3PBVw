@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "揺れ動く世界",
+  "base_artist": "PURPLE BUBBLE",
+  "createdAt": "2026-02-27T13:00:17.840272Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "揺れ動く世界",
+      "artist": "PURPLE BUBBLE",
+      "has_synced": false,
+      "path": "select/pl_01_揺れ動く世界_PURPLE_BUBBLE.txt"
+    }
+  ]
+}
